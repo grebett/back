@@ -1,0 +1,10 @@
+{
+  "name": "Griswold",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "svg.js": "^2.6.3",
+    "viz.js": "^1.8.0"
+  }
+}
